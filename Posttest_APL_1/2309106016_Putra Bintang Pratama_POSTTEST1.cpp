@@ -84,6 +84,4 @@ int main(){
          << "Harap memulai ulang program kembali!";
     return 0;
 
-
-
 }
